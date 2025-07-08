@@ -1,42 +1,49 @@
-# 👋 Hi, I'm Abdulrauf Hassan Kassim
 
-**A passionate frontend developer and cybersecurity enthusiast**
+<h1 align="center">Hi 👋, I'm Abdulrauf Hassan Kassim</h1>
+<h3 align="center">Frontend Developer | Cybersecurity Enthusiast | Computer Science Student</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-![Followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER&style=social)
+<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg">
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+</p>
 
-### 👤 Personal Information
+<p align="left">
+  <a href="https://twitter.com/Sibiyanupdurauf" target="blank">
+    <img src="https://img.shields.io/twitter/follow/Sibiyanupdurauf?logo=twitter&style=for-the-badge" alt="twitter" />
+  </a>
+</p>
 
-- **Full Name:** Abdulrauf Hassan Kassim  
-- **Preferred Name / Alias:** Sibiyan, Updulrauf Sibiyan 👨‍💻  
-- **Languages:** English, some Arabic  
-- **Email:** hassanabdulrauf491@gmail.com  
-
----
-
-### 🎓 Education
-
-- **University:** Kenya Methodist University (KeMU)  
-- **Major:** Bachelor of Computer Information Systems (CIS)  
-- **Status:** Undergraduate (Starting September)  
-
-**Secondary School:**  
-- Completed with a B in TCSE  
-
-**Subjects Studied So Far:**  
-- Programming (Python, C++, JavaScript)  
-- Object-Oriented Programming  
-- Data Structures & Algorithms  
-- Operating Systems  
-- Software Engineering  
-- Machine Learning  
-- Web & Services Programming  
-- Cybersecurity  
+💬 Ask me about web development, Python, or ethical hacking!  
+📫 How to reach me: hassanabdulrauf491@gmail.com  
+👨‍💻 I regularly practice coding challenges on platforms like LeetCode and HackerRank.  
+🌟 I enjoy contributing to open-source projects and participating in hackathons.  
+📚 I have a passion for learning new technologies and staying updated with industry trends.  
+🎯 I love combining development with cybersecurity to build secure systems.
 
 ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/Sibiyanupdurauf" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulrauf-hassan-kassim-436943328" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sibiyan_essence" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://tiktok.com/@sibiyan_1948" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="tiktok" height="30" width="30" />
+  </a>
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="github streak" /></p>
 
 ### 👨‍💻 Technical Skills
 
@@ -50,7 +57,7 @@
 
 **Tools & Platforms:**  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
 ![AppGyver](https://img.shields.io/badge/AppGyver-0076A8?style=flat&logo=data%3Aimage%2Fsvg%2Bxml;base64,...)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
@@ -72,19 +79,8 @@
 
 - `100 Days of Hacking Challenge` → Posting daily on TikTok & X (Twitter)  
 - `Learning Django for Web Development`  
-- `Ink Aura Bookstore` → Founder/Creator  
-- `Personal Portfolio & GitHub Projects`  
+- `Ink Aura Bookstore` → Founder/Creator   
 
----
-
-### 🏆 Experience & Achievements
-
-- 🥇 **Hackathon:** ICP Hub Kenya Hackathon (Certificate holder)  
-- 🙌 **Volunteer Work:** Social Media Manager at Antaliya Hospital  
-- 📖 **Lectures Attended:** Dr. Zakir Naik and Farid Naik in Kenya  
-- 🎥 **Influencer Style:** Shares tech journey on TikTok and social platforms  
-
----
 
 ### 💼 Professional Summary
 
@@ -93,17 +89,7 @@ I'm passionate about building **secure, beautiful web applications** and inspiri
 
 ---
 
-### 🌍 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/your-github-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abdulrauf-hassan-kassim-436943328)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Sibiyanupdurauf-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Sibiyanupdurauf)  
-[![Instagram](https://img.shields.io/badge/Instagram-@sibiyan_essence-E4405F?logo=instagram&logoColor=white)](https://instagram.com/sibiyan_essence)  
-[![TikTok](https://img.shields.io/badge/TikTok-@sibiyan_1948-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@sibiyan_1948)  
-
----
-
 ### 🔥 Extra Cool Facts
 
 - 💭 Deeply interested in **self-growth, Islamic knowledge, and building a legacy**  
-- 📲 Actively shares the **tech learning journey to inspire others**
+- 📲 Actively shares the **tech learning journey to inspire others**  
