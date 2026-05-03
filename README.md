@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdulrauf Hassan Kassim</h1>
-<h3 align="center">Frontend Developer | Cybersecurity Enthusiast | Computer Science Student</h3>
+<h3 align="center">Frontend Developer | Cybersecurity Anayst | Computer Science Student</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/5475809/pexels-photo-5475809.jpeg">
 
